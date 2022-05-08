@@ -1,7 +1,9 @@
 - Baixar arquivos
 
-- com Node instalado no computador, rodar npm install dentro da pasta.
+- Instalar o Node: https://nodejs.org/en/
 
-- rodar npm run start
+- Rodar npm install dentro da pasta.
 
-- entrar no endereço http://localhost:3000/webcam_face_expression_recognition
+- Rodar npm run start
+
+- Entrar no endereço: http://localhost:3000/webcam_face_expression_recognition
